@@ -1,5 +1,5 @@
 # read input file
-with open(r"C:\GitHub\aoc\2024\01\01.txt") as f:
+with open(r"C:\GitHub\aoc2024\01\01.txt") as f:
     lines = f.readlines()
 
 leftCol = []
