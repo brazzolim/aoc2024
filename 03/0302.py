@@ -9,9 +9,6 @@ with open(r"C:\GitHub\aoc2024\03\03.txt") as f:
         sections.append(line.strip())
 
 totSum = 0
-allMulValues = []
-acceptableValues = []
-notAcceptableValues = []
 oneLineStr = ""
 for section in sections:
     oneLineStr += section
